@@ -13,4 +13,4 @@
     shell32.dll
     ucrtbased.dll
     user32.dll
-已经包含在项目文件中，将其复制到C:\Windows\SysWOW64下即可。
+已经包含在项目文件Dependences\dll中，将其复制到C:\Windows\SysWOW64下即可。
