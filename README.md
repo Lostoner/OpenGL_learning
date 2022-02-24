@@ -14,3 +14,5 @@
     ucrtbased.dll
     user32.dll
 已经包含在项目文件Dependences\dll中，将其复制到C:\Windows\SysWOW64下即可。
+
+本项目运行后，使用w、a、s、d、Shift、Ctrl进行摄像机移动，F2释放光标可在左上角UI处进行光照参数调整，ESC退出。
